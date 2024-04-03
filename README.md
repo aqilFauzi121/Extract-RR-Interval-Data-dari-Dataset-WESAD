@@ -1,1 +1,3 @@
-# Extract-RR-Interval-Data-dari-Dataset-WESAD
+# Extracting ECG Data from WESAD Dataset
+
+Extract ECG data from the WESAD dataset, a multimodal dataset for wearable stress and affect detection. The WESAD dataset includes recordings of various physiological data and body movement from wearable sensors worn by subjects experiencing stress-inducing situations
